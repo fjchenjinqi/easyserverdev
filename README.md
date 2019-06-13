@@ -44,14 +44,3 @@
 
 [网络通信基础重难点解析 18： IOCP实例 - gh0st源码分析（以网络通信模块为重点）](https://github.com/balloonwj/easyserverdev/blob/master/%E7%BD%91%E7%BB%9C%E9%80%9A%E4%BF%A1%E5%9F%BA%E7%A1%80%E9%87%8D%E9%9A%BE%E7%82%B9%E8%A7%A3%E6%9E%90%2017%20%EF%BC%9AWindows%20%E5%AE%8C%E6%88%90%E7%AB%AF%E5%8F%A3%EF%BC%88IOCP%EF%BC%89%E6%A8%A1%E5%9E%8B%E9%87%8D%E9%9A%BE%E7%82%B9%E8%A7%A3%E6%9E%90.md)
 
-
-
-
-
-------
-
-**本专题文章来源于『<font color=red>easyserverdev</font>』公众号，欢迎关注，转载或 fork 请保留版权信息。**
-
-**欢迎加入高性能服务器开发 QQ 群一起交流：<font color=red> 578019391 </font>。**
-
-![微信扫码关注](http://www.hootina.org/github_easyserverdev/articlelogo.jpg)
